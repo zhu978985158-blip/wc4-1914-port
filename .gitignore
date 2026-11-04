@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+**/__pycache__/
+*.py[cod]
+/inputs/
+/outputs/
+*.apk
+*.dex
+*.so
+*.btl
+*.bin
+*.jks
+*.keystore
